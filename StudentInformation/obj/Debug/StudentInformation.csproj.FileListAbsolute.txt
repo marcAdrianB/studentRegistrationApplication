@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\StudentInformation\bin\Debug\StudentInformation.exe.config
+C:\Users\Public\Documents\StudentInformation\bin\Debug\StudentInformation.exe
+C:\Users\Public\Documents\StudentInformation\bin\Debug\StudentInformation.pdb
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.exe
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.pdb
+C:\Users\Public\Documents\StudentInformation\obj\Debug\StudentInformation.CustomMessageBox.resources
